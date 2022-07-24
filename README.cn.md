@@ -1,4 +1,6 @@
-# 针对我手上的盒子M401A定制编译，以下为ophub原文
+# 针对我手上的盒子M401A定制编译，很神奇，直接烧U盘无法启动，但经有ophub的5.15.55版本升级就没问题。
+
+以下为ophub原文
 
 # OpenWrt for Amlogic TV Boxes / 晶晨 OpenWrt
 
